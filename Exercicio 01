@@ -1,4 +1,4 @@
-import soma;
+import Soma;
 
 public class SomaNumerosNaturais {
     public static void main(String[] args) {
