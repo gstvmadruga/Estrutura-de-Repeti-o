@@ -1,4 +1,4 @@
-import contagemRegressiva;
+import ContagemRegressiva;
 
 public class ContagemRegressiva {
     public static void main(String[] args) {
